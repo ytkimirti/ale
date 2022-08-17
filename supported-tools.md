@@ -81,6 +81,7 @@ formatting.
   * [flawfinder](https://www.dwheeler.com/flawfinder/)
   * [gcc](https://gcc.gnu.org/)
   * [uncrustify](https://github.com/uncrustify/uncrustify)
+  * [norminette](https://github.com/42School/norminette)
 * C#
   * [csc](http://www.mono-project.com/docs/about-mono/languages/csharp/) :floppy_disk: see:`help ale-cs-csc` for details and configuration
   * [cspell](https://github.com/streetsidesoftware/cspell/tree/main/packages/cspell)
@@ -104,6 +105,7 @@ formatting.
   * [flawfinder](https://www.dwheeler.com/flawfinder/)
   * [gcc](https://gcc.gnu.org/)
   * [uncrustify](https://github.com/uncrustify/uncrustify)
+  * [norminette](https://github.com/42School/norminette)
 * Cairo
   * [starknet](https://starknet.io/docs)
 * Chef
